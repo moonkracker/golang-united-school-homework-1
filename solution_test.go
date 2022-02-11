@@ -1,9 +1,8 @@
 package solution
 
 import (
-	"testing"
 	"github.com/kyokomi/emoji/v2"
-
+	"testing"
 )
 
 func TestGetMessage(t *testing.T) {
